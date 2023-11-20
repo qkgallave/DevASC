@@ -1,0 +1,5 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED              STATUS                          PORTS               NAMES
+998d95b2e685        2acccf902fa3        "/bin/sh -c 'pip ins…"   About a minute ago   Exited (2) About a minute ago                       determined_wing
+5e95587db252        2acccf902fa3        "/bin/sh -c 'pip ins…"   4 minutes ago        Exited (2) 4 minutes ago                            trusting_euler
+40dda6166218        2acccf902fa3        "/bin/sh -c 'pip ins…"   6 minutes ago        Exited (2) 6 minutes ago                            ecstatic_blackburn
+51d5ace1e07f        2acccf902fa3        "/bin/sh -c 'pip ins…"   8 minutes ago        Exited (2) 7 minutes ago                            adoring_lamarr
